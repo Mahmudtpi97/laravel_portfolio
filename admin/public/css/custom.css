@@ -1,0 +1,49 @@
+/*.content-wrapper{background:#fff}*/
+/*h1,h2,h3,h4,h5,h6{
+    color:#fff;
+}*/
+.preloader,.SliderWrong{
+    justify-content:center;
+    align-items:center;
+}
+/*Editor*/
+.note-toolbar {
+    box-shadow: 0 0 1rem #ddd;
+    background: #7a6e16;
+}
+table tr td img.custom_img {
+    width: 120px;
+    height: 100px;
+    border-radius: 0;
+}
+table tr td img.big_img {
+    width: 70%;
+    height: auto;
+    border-radius: 0;
+}
+table tr{
+    color: #fff;
+}
+.form-control:focus{
+  color: #fff;
+}
+.btn i{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    font-size: 20px;
+}
+button.close {
+    background: #fff;
+    width: 50px;
+    height: 50px;
+}
+/*.form-control:focus, .form-check .form-check-label{
+	color: #fff;
+}*/
+textarea.form-control{
+	height: 100px;
+	resize: vertical;
+}
